@@ -80,8 +80,8 @@ Backend application with:
 
 ## 📫 Contact Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/krasena-markova-048b873b3/
+- Email: krasena_hristova@abv.bg
 
 ---
 
